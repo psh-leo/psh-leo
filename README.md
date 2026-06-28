@@ -1,1 +1,34 @@
-Information Systems student at Universitas Gunadarma with a growing focus on AI, Data Science, and Machine Learning. I enjoy building practical projects to strengthen my technical skills and am currently exploring Web3 technologies. I'm also interested in quantitative market analysis and plan to develop trading indicators and data-driven tools for forex and the Indonesian stock market.
+# Hi, I'm Pasha 👋
+
+Information Systems student at Gunadarma University with a strong interest in Data Analytics, Artificial Intelligence, and Business Intelligence.
+
+Currently building practical projects using Python, SQL, PostgreSQL, and Power BI while exploring AI Agents and LLM applications to solve real-world business problems.
+
+## Tech Stack
+
+- Python
+- SQL
+- PostgreSQL
+- Power BI
+- Pandas
+- NumPy
+- Git
+
+## Current Focus
+
+- AI Agent Development
+- Data Analytics
+- Machine Learning
+- Big Data
+- Business Intelligence
+
+## Featured Projects
+
+🤖 Aira
+Personal AI Agent built with Python.
+
+📈 ForexInfo
+Financial Information Website.
+
+😊 Sentiment Analyzer
+Machine learning sentiment classification.
